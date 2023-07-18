@@ -1,0 +1,14 @@
+{
+    "<event>": {
+      "replace": "false",
+       "subtitle":"true",
+        "sounds": [
+          { "name": "mob/cow/hurt1", "volume": "1.0", "pitch": "1.0" , "weight": "1", "stream": "false", "attenuation_distance": "16", "preload": "false", "type": "sound"},
+          { "name": "mob/cow/hurt2" },
+          { "name": "mob/cow/hurt3" },
+          { "name": "mob/cow/hurt4" }
+      ]
+    }
+}
+
+
